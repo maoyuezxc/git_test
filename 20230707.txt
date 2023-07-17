@@ -1,2 +1,4 @@
 this is a git test on 7th Jul, 2023
 20230717： test git rm
+
+20230717 1023：test git commit -a
